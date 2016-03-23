@@ -26,7 +26,8 @@ public class Location {
     
     public int getNumCustomers()
     {
-        return this.numCustomers;
+        int outnum=this.numCustomers;
+        return outnum;
     }
     
 }
